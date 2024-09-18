@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://andreabattista.net](andreabattista.net)
+- 👨‍💻 All of my projects are available at [andreabattista.net](https://andreabattista.net)
 
 - ⚡ Fun fact **If I hadn't ruptured my ACL I'd be playing in the big leagues**
 
