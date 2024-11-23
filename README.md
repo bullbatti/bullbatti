@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea Battista</h1>
 <h3 align="center">A passionate junior full-stack developer from Bologna, Italy</h3>
 
-- 🔭 I’m currently working on **InOutFlow**
+- 🔭 I’m currently working on **TH&S website and eCommerce**
 
 - 🌱 I’m currently learning **Spring Boot**
 
