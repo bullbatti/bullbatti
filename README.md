@@ -1,19 +1,21 @@
+<div>
+
 # Bullbatti
+### JUNIOR DEVELOPER — .NET & BLAZOR
 
-Junior Developer — .NET & Blazor.
+> *“There is an idea of a Junior Developer. Some kind of abstraction. But there is no real me — only an entity. Something illusory. And though I can hide my cold, meticulous code… I simply am not there.”*
 
----
-
-### Focus
-.NET · Blazor (Server & WebAssembly) · PostgreSQL 
+</div>
 
 ---
 
-### Briefs
-**`bullbatti/converti`**  
-100% client-side file conversion toolbox: resize images, edit PDFs, merge/extract pages, create favicons. Fast, private, no backend required.
+<div>
 
-**`bullbatti/follownt`**  
-A web tool to clean up your Instagram network: find out who isn't following you back and optimize your social circle.
+**FOCUS**  
+` .NET Core ` ` ASP.NET ` ` Blazor Server ` ` PostgreSQL `
 
-— A. B.
+**BRIEFS**  
+[**`bullbatti/follownt`**](link) — A Blazor web tool to clean up your Instagram network.  
+[**`bullbatti/converti`**](link) — 100% client-side file conversion toolbox.  
+
+</div>
