@@ -10,6 +10,6 @@
 <div>
 
 **FOCUS**  
-` .NET Core ` ` Blazor Server ` ` PostgreSQL `
+` React ` ` React native `
 
 </div>
